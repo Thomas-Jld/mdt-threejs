@@ -5,8 +5,8 @@
 - [Getting Started](<./lessons/00 - Getting started.md>)
 - [Setting up a scene, camera and renderer](<./lessons/01 - Scene, camera and renderer.md>)
 - [Geometries, materials and lights](<./lessons/02 - Geometries, materials and lights.md>)
-<!-- - [Debugging](<./lessons/03 - Debugging.md>) -->
-<!-- - [Loader, textures and models](<./lessons/04 - Loader, textures and models.md>) -->
+- [Debugging](<./lessons/03 - Debugging.md>)
+- [Loader, textures and models](<./lessons/04 - Loader, textures and models.md>)
 <!-- - [Interacting with the elements](<./lessons/05 - Interacting with the elements.md>) -->
 
 ## Objectives
