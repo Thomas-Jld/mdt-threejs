@@ -159,7 +159,7 @@ Models are 3D objects that are created using a 3D modeling software. They can be
 First, you need to import the GLTFLoader class.
 
 ```js
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 ```
 
 Then, you can create a new loader and load the model.
