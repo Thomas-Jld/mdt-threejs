@@ -31,3 +31,4 @@
 - [ ] Complex scene and interactions
 - [ ] Complex Animations
 - [ ] Custom Shaders
+- [ ] Deployed on a website (Github Pages or other)
