@@ -25,10 +25,10 @@ Then, you need to create an instance of each of these classes:
 const composer = new EffectComposer(renderer);
 const renderPass = new RenderPass(scene, camera);
 const bloomPass = new UnrealBloomPass({
-    strength: 0.5,
-    radius: 1,
-    threshold: 0.1,
-    exposure: 1
+    new THREE.Vector2(window.innerWidth, window.innerHeight),
+    0.5, // strength
+    1, // radius
+    0.1 // threshold
 });
 const outputPass = new OutputPass();
 ```
@@ -77,12 +77,12 @@ scene.add(sphere);
 
 const composer = new EffectComposer(renderer);
 const renderPass = new RenderPass(scene, camera);
-const bloomPass = new UnrealBloomPass({
-    strength: 0.5,
-    radius: 1,
-    threshold: 0.1,
-    exposure: 1
-});
+const bloomPass = new UnrealBloomPass(
+    new THREE.Vector2(window.innerWidth, window.innerHeight),
+    0.5, // strength
+    1, // radius
+    0.1 // threshold
+);
 const outputPass = new OutputPass();
 
 composer.addPass(renderPass);
