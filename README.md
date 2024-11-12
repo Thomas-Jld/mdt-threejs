@@ -33,3 +33,5 @@
 - [ ] Complex Animations
 - [ ] Custom Shaders
 - [ ] Deployed on a website (Github Pages or other)
+- [ ] Integrated into a website
+- [ ] Uses React Three Fiber
