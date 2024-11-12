@@ -193,4 +193,4 @@ const animate = () => {
 animate();
 ```
 
-Next, [debugging](<./03 - Debugging.md>).
+Next, [Objects manipulation and animations](<./03 - Objects manipulation and Animations.md>).

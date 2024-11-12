@@ -248,4 +248,4 @@ window.addEventListener("resize", () => {
 })
 ```
 
-Next, [interacting with the elements](<./05 - Interacting with the elements.md>)
+Next, [interacting with the elements](<./06 - Interacting with the elements.md>)

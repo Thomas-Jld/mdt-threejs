@@ -217,4 +217,4 @@ function animate() {
 animate();
 ```
 
-Next, [post-processing effects](<./06 - Post-processing effects.md>).
+Next, [post-processing effects](<./07 - Post-processing effects.md>).

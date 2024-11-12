@@ -236,4 +236,4 @@ window.addEventListener("resize", () => {
 ![Helpers](./images/helpers.png)
 ![Helpers visible](./images/helpers-2.png)
 
-Next, [loader, textures and models](<./04 - Loader, textures and models.md>)
+Next, [loader, textures and models](<./05 - Loader, textures and models.md>)
